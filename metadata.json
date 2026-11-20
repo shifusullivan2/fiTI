@@ -1,0 +1,6 @@
+{
+  "name": "AetherForge 3D Studio & AI Thinking Engine",
+  "description": "Interactive procedural Three.js 3D mechanical laboratory with studio PBR rendering, exploded views, kinematic simulations, and Gemini 4 Argon deep thinking engineering reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
